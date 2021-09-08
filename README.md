@@ -1,4 +1,10 @@
-# 后期脚本会逐步进行加密后发布(原因:部分人偷盗脚本,然后进行改脚本内置邀请码后再次宣传修改后的)
+# 重要提示，不看后果自负！
+
+本仓库代码来源为互联网，已经经过多次修改，是否含有后门由于能力有限无法查证，**请勿使用本仓库脚本，出现任何问题自行承担！** 
+**请勿使用本仓库脚本，出现任何问题自行承担！** 
+**请勿使用本仓库脚本，出现任何问题自行承担！** 
+**请勿使用本仓库脚本，出现任何问题自行承担！** 
+如果你有能力，请将代码下载到本地后使用，仓库不要Star，也不要Fork！
 
 ## 特别声明: 
 
@@ -93,68 +99,6 @@
 <!-- 此表格由 update_list.sh 脚本自动生成，请不要人工修改。 -->
 <!-- 这是隐藏信息，用来给 update_list.sh 脚本提供标记信息的，用于自动生成上面的脚本清单，请勿删除这里的标记信息。 -->
 
-#### 搬运脚本
-
-1.  【 [@yangtingxiao](https://github.com/yangtingxiao) 】 京东抽奖机([jd_lotteryMachine.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_lotteryMachine.js))
-
-2.  【 [@yangtingxiao](https://github.com/yangtingxiao) 】 京东排行榜([jd_rankingList.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_rankingList.js))
-
-**脚本兼容: [QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620), [Surge](https://apps.apple.com/us/app/surge-4/id1442620678), [Loon](https://apps.apple.com/us/app/loon/id1373567447), 小火箭, JSBox, Node.js**
-
-## 邀请码互助
-
-- [获取各类活动互助码脚本 jd_get_share_code.js](https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js)
-
-- [邀请码使用规范](githubAction.md#互助码类环境变量)(仅限云端)
-
-## 食用方法
-
-### 1. Docker
-
-- [部署方法](./docker/Readme.md)
-
-- [环境变量集合](./githubAction.md)
- 
-- 获取京东cookie教程可参考：
-  
-  + [浏览器获取京东cookie教程](./backUp/GetJdCookie.md)
-    
-  + [插件获取京东cookie教程](./backUp/GetJdCookie2.md)
-    
-  + 京东APP扫码获取cookie(此种方式获取的cookie有效期为30天)(执行`node getJDCookie.js`即可)
-
-### 2. iOS代理软件（QuantumultX, Surge, Loon, 小火箭）
-
-##### BoxJs订阅地址：[lxk0301.boxjs.json](https://gitee.com/lxk0301/jd_scripts/raw/master/lxk0301.boxjs.json)
-
-##### 获取京东cookie [JD_extra_cookie.js](https://gitee.com/lxk0301/jd_scripts/raw/master/JD_extra_cookie.js)
-
-##### 订阅链接：
-
-- Surge：Task&Cookies脚本模块地址: [lxk0301_Task.sgmodule.sgmodule](https://gitee.com/lxk0301/jd_scripts/raw/master/Surge/lxk0301_Task.sgmodule.sgmodule)
-
-- Loon：Task&Cookies脚本订阅链接: [lxk0301_LoonTask.conf](https://gitee.com/lxk0301/jd_scripts/raw/master/Loon/lxk0301_LoonTask.conf)
-
-- QuantumultX Task脚本订阅链接: [lxk0301_gallery.json](https://gitee.com/lxk0301/jd_scripts/raw/master/QuantumultX/lxk0301_gallery.json)，cookie(重写)订阅链接: [lxk0301_cookies.conf](https://gitee.com/lxk0301/jd_scripts/raw/master/QuantumultX/lxk0301_cookies.conf)
-
-## 通知频道 [https://t.me/jdfruit](https://t.me/jdfruit)
-
-## 赞赏码(开发维护不易,请赏杯茶水费)
-
-<div align=center><img width="250" height="250" src="https://cdn.jsdelivr.net/gh/wisz2021/jd_docker@main/icon/thanks.jpg"/></div>
 
 
-## 特别感谢(排名不分先后)：
 
-
-* [@NobyDa](https://github.com/NobyDa)
-
-* [@chavyleung](https://github.com/chavyleung)
-
-* [@liuxiaoyucc](https://github.com/liuxiaoyucc)
-
-* [@Zero-S1](https://github.com/Zero-S1)
-
-* [@uniqueque](https://github.com/uniqueque)
-
-* [@nzw9314](https://github.com/nzw9314)
